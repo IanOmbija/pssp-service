@@ -159,9 +159,6 @@ npm test
 
 ```
 
----
-## 🔗  Loom Link
-[![Code & Set up Walkthrough](https://img.shields.io/badge/codewalkthrough-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.loom.com/share/bb7efcf974244305ba5f109991f6e724) :https://www.loom.com/share/bb7efcf974244305ba5f109991f6e724
 
 
 
